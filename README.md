@@ -1,4 +1,5 @@
 #Que veo hoy
+
 Queveohoy es una pagina que mediante filtros por búsqueda, devuelve títulos de peliculas según filtros y gustos de quien realice la consulta.
 Creación de una API REST, utilizando Nodejs y Express del lado del server y MySQL para la administración de una base de datos relacional. Contaba con un frontend ya realizado, por lo que y debía analizar las peticiones del front y así obtener los resultados apropiados.
 
